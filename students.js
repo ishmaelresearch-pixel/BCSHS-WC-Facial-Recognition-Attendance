@@ -145,8 +145,8 @@ export function initStudents(container, state) {
         const lrnInput = document.getElementById('reg-lrn');
         const section = document.getElementById('reg-section').value;
 
-        if (!nameInput.value || !lrnInput.value || lrnInput.value.length < 11) {
-            window.showToast("Please provide full name and 11-digit LRN", "info");
+        if (!nameInput.value || !lrnInput.value || lrnInput.value.length < 12) {
+            window.showToast("Please provide full name and 12-digit LRN", "info");
             return;
         }
 
