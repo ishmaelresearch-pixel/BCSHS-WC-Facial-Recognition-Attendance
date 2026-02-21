@@ -1,0 +1,26 @@
+[
+    {
+        "id": "10692832712",
+        "name": "Isaac Newton",
+        "section": "12 Venter",
+        "status": "Unregistered",
+        "initials": "IB",
+        "attendance": []
+    },
+    {
+        "id": "10692832714",
+        "name": "Marcus Aurelius",
+        "section": "12 Hawking",
+        "status": "Unregistered",
+        "initials": "MA",
+        "attendance": []
+    },
+    {
+        "id": "10692832716",
+        "name": "Alan Turing",
+        "section": "12 Tesla",
+        "status": "Unregistered",
+        "initials": "AT",
+        "attendance": []
+    }
+]
