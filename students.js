@@ -77,11 +77,11 @@ export function initStudents(container, state) {
                     <div class="space-y-6">
                         <div class="space-y-2">
                             <label class="text-[10px] uppercase font-bold text-gray-500 tracking-widest">Full Legal Name</label>
-                            <input type="text" id="reg-name" placeholder="e.g. Ishmael Asis A. Breva" class="w-full bg-black/40 border border-gray-800 rounded-xl p-4 text-white focus:border-purple-500 focus:ring-1 focus:ring-purple-500 focus:outline-none transition-all">
+                            <input type="text" id="reg-name" placeholder="e.g. Jhon Mike S. Duderte" class="w-full bg-black/40 border border-gray-800 rounded-xl p-4 text-white focus:border-purple-500 focus:ring-1 focus:ring-purple-500 focus:outline-none transition-all">
                         </div>
                         <div class="space-y-2">
-                            <label class="text-[10px] uppercase font-bold text-gray-500 tracking-widest">LRN ID (11 Digits)</label>
-                            <input type="text" id="reg-lrn" placeholder="e.g. 10692832712" maxlength="11" class="w-full bg-black/40 border border-gray-800 rounded-xl p-4 text-white font-mono focus:border-purple-500 focus:outline-none transition-all">
+                            <label class="text-[10px] uppercase font-bold text-gray-500 tracking-widest">LRN ID (12 Digits)</label>
+                            <input type="text" id="reg-lrn" placeholder="e.g. 106928327120" maxlength="12" class="w-full bg-black/40 border border-gray-800 rounded-xl p-4 text-white font-mono focus:border-purple-500 focus:outline-none transition-all">
                         </div>
                         <div class="space-y-2">
                             <label class="text-[10px] uppercase font-bold text-gray-500 tracking-widest">STEM Section</label>
